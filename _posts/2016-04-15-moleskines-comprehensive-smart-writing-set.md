@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-21T04:14:31.177Z'
+datePublished: '2016-07-21T04:15:03.962Z'
 sourcePath: _posts/2016-04-15-moleskines-comprehensive-smart-writing-set.md
 inFeed: true
 isBasedOnUrl: 'http://www.coolhunting.com/tech/moleskine-smart-writing-set'
@@ -17,7 +17,8 @@ keywords:
   - pages
 related: []
 author: []
-dateModified: '2016-07-21T04:14:30.651Z'
+via: {}
+dateModified: '2016-07-21T04:15:03.217Z'
 title: Moleskine's Comprehensive Smart Writing Set
 app_links: []
 publisher:
@@ -32,7 +33,6 @@ description: >-
   Moleskine unveiled their latest analog-to-digital wonder. dddd
 inLanguage: en
 inNav: false
-via: {}
 starred: false
 _context: 'http://schema.org'
 _type: MediaObject
